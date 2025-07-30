@@ -424,6 +424,8 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
+- [11 Best AI Writing Tools](https://medium.com/illumination/best-ai-writing-tools-944c4092133a) - Webseotrends is a top digital marketing agency offering SEO, PPC, content marketing, social media, email marketing & web design service.
+- [Webseotrends](https://webseotrends.com/) - Here Are My Favorite AI Tools for Writing SEO-Rich Blog Content.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de donwload do Terabox.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura de duplicatas no Windows e Linux.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
